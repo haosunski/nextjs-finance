@@ -1,5 +1,10 @@
-## Next.js App Router Course - Starter
+## Next.js Project
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Nextjs project including typescript + react + nextjs 
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+* Server action - write server action directly in client or server component
+* Routing - nextjs file-based routing - page level skeleton loading page
+* Skeleton placeholder - while suspense dynamic route is retrieving data
+* Error handling page: error page + not-found page
+* Postgres database and application deployed on vercel 
+* Local authentication stratgy with session using nextAuth from nextjs framework which is under Beta development phase
